@@ -1,0 +1,5 @@
+This is a simple game of life written in java.
+
+Compile using javac, and run using Java, optionally passing the number of squares (default 30x30)
+
+
